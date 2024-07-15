@@ -68,19 +68,3 @@ const Home: React.FC<HomeProps> = ({ setUseTestAadhaar, useTestAadhaar, switchAa
 }
 
 export default Home;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
